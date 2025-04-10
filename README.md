@@ -1,8 +1,8 @@
-# Epicas, Features y User Stories
+# Épicas, Features y User Stories
 
 🧩 Épicas
 
-1. Gestión de Usuario
+1. **Gestión de Usuario**
     
     **⚙️ Features**
     
@@ -13,8 +13,9 @@
     - Como *usuario nuevo*, quiero poder registrarme fácilmente, para acceder a beneficios exclusivos y hacer compras.
     - Como *usuario registrado*, quiero iniciar sesión con mis credenciales, para poder gestionar mis pedidos y perfil.
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-2. Visualización y Detalle de Productos
+2. **Visualización y Detalle de Productos**
     
     **⚙️ Features**
     
@@ -30,8 +31,9 @@
     - Como *comprador*, quiero ver una descripción detallada del producto, para saber si se ajusta a mis necesidades.
     - Como *usuario*, quiero ver reseñas y calificaciones, para confiar en la calidad del producto.****
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   
- 3. Visualización y Detalle de Productos
+ 3. **Visualización y Detalle de Productos**
     
     **⚙️ Features**
     
@@ -47,8 +49,9 @@
     - Como *comprador*, quiero ver una descripción detallada del producto, para saber si se ajusta a mis necesidades.
     - Como *usuario*, quiero ver reseñas y calificaciones, para confiar en la calidad del producto.
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-4. Envíos
+4. **Envíos**
     
     
     **⚙️ Features**
@@ -60,10 +63,11 @@
     **✍️ User Stories**
     
     - Como *comprador*, quiero conocer el costo del envío antes de pagar, para evaluar el total de mi compra
-    - Como *usuario*, quiero rastrear mi pedido, para saber dónde está y cuándo llegará.
+    - Como *usuario*, quiero rastrear mi pedido, para saber dónde está y cuándo llegará.//
 
-  
-5. Fidelización y Soporte Postventa
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+5. **Fidelización y Soporte Postventa**
     
     
     **⚙️ Features**
