@@ -2,7 +2,7 @@
 
 🧩 Épicas
 
-1. **Gestión de Usuario**
+1. **Gestión de Usuario** 🧩
     
     **⚙️ Features**
     
@@ -15,7 +15,7 @@
 
 ---
 
-2. **Visualización y Detalle de Productos**
+2. **Visualización y Detalle de Productos** 🧩
     
     **⚙️ Features**
     
@@ -33,7 +33,7 @@
 
 ---
   
- 3. Pasarela de Pagos
+ 3. Pasarela de Pagos 🧩
     
     
     **⚙️ Features**
@@ -50,7 +50,7 @@
 
 ---
 
-4. **Envíos**
+4. **Envíos** 🧩
     
     
     **⚙️ Features**
@@ -66,10 +66,10 @@
 
 ---
 
-5. **Fidelización y Soporte Postventa**
+5. **Fidelización y Soporte Postventa** 🧩
     
     
-    **⚙️ Features**
+    **⚙️ Features** 
     
     - Soporte gratuito por un mes para usuarios registrados y compradores
     
