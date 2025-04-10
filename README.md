@@ -33,21 +33,20 @@
 
 ---
   
- 3. **Visualización y Detalle de Productos**
+ 3. Pasarela de Pagos
+    
     
     **⚙️ Features**
     
-    - Mostrar descripción del producto
-    - Mostrar beneficios
-    - Categorización por tipo de producto
-    - Incluir video del producto
-    - Reseñas con calificación de 1 a 5 estrellas
+    - Diversidad de métodos de pago
+    - Selección de divisa
+    - Compra al por mayor con descuento automático
+    - Pago contra entrega
     
     **✍️ User Stories**
     
-    - Como *usuario*, quiero explorar productos por categoría, para encontrar más fácilmente lo que busco.
-    - Como *comprador*, quiero ver una descripción detallada del producto, para saber si se ajusta a mis necesidades.
-    - Como *usuario*, quiero ver reseñas y calificaciones, para confiar en la calidad del producto.
+    - Como *cliente*, quiero elegir entre diferentes métodos de pago, para usar el que me sea más cómodo.
+    - Como *usuario internacional*, quiero seleccionar mi moneda local, para saber exactamente cuánto estoy pagando.
 
 ---
 
