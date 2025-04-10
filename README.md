@@ -31,7 +31,7 @@
     - Como *comprador*, quiero ver una descripción detallada del producto, para saber si se ajusta a mis necesidades.
     - Como *usuario*, quiero ver reseñas y calificaciones, para confiar en la calidad del producto.****
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+---
   
  3. **Visualización y Detalle de Productos**
     
@@ -49,7 +49,7 @@
     - Como *comprador*, quiero ver una descripción detallada del producto, para saber si se ajusta a mis necesidades.
     - Como *usuario*, quiero ver reseñas y calificaciones, para confiar en la calidad del producto.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+---
 
 4. **Envíos**
     
@@ -65,7 +65,7 @@
     - Como *comprador*, quiero conocer el costo del envío antes de pagar, para evaluar el total de mi compra
     - Como *usuario*, quiero rastrear mi pedido, para saber dónde está y cuándo llegará.//
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+---
 
 5. **Fidelización y Soporte Postventa**
     
